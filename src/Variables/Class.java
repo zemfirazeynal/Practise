@@ -1,7 +1,4 @@
 package Variables;
-
-import javax.xml.namespace.QName;
-
 public class Class {
     public static String studentName = "Wednesday Addams";
     public static int age = 16;

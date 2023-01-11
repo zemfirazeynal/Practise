@@ -13,6 +13,7 @@ public class MyFirstPractise1 {
 
         float f1 = (float) 25.5; // bu cür yazılış daha məqsədə uyğundur
         System.out.println("float f1="+f1);
+
         float f2 = 25.5f;
         System.out.println("float f2="+f2);
 
